@@ -12,5 +12,8 @@ Eu sou o Elton Fernando atualmente tenho 31 anos, sou da cidade de maringá Para
 <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br>
-<a href="https://www.linkedin.com/in/elton-fernando-a55a03250"</a>
+<a href="https://www.linkedin.com/in/elton-fernando-a55a03250"></a>
 <br>
+<b>ou via email:<b>
+<br>
+elton_febraio@hotmail.com
