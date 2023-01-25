@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Elton Fernando atualmente tenho 31 anos, sou da cidade de maringá Paraná, sou programador Front-End e atualmente estou estudando e criando alguns projetos como:
+Eu me chamo Elton Fernando atualmente tenho 32 anos, sou da cidade de maringá Paraná, sou programador Front-End e atualmente estou estudando e criando alguns projetos como:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
