@@ -8,14 +8,12 @@ Eu me chamo Elton Fernando atualmente tenho 32 anos, sou da cidade de maringá P
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elton-Fernando=true&theme=radical)
+<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elton-fernando&theme=bgcolor=blue)
 <br>
 <b>contate-me via:<b>
 <br>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br>
-<a href="https://www.linkedin.com/in/elton-fernando-febraio" <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/elton-fernando-febraio"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 <b>ou via email:<b>
 <br>
